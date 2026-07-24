@@ -231,6 +231,5 @@ Add screenshots here:
 
 ## ⭐ If you found this project useful, please give it a Star!
 
-Made with ❤️ by **MERUGU ANURADHA**
 
 </div>
